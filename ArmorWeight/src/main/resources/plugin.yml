@@ -1,0 +1,4 @@
+name: ArmorWeight
+version: '1.0'
+main: org.kyas.armorweight.ArmorWeight
+api-version: '1.20'

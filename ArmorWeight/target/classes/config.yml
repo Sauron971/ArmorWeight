@@ -1,0 +1,26 @@
+disableSpawner: true
+enableWeight: true
+enableDrowning: true
+
+armor_weight:  #default speed value 0.1
+  iron_helmet: 0.008  #default speed value for iron armor 0.062
+  iron_chestplate: 0.015
+  iron_leggings: 0.01
+  iron_boots: 0.005
+
+  chainmail_helmet: 0.001  #default speed value for chainmail armor 0.08
+  chainmail_chestplate: 0.015
+  chainmail_leggings: 0.003
+  chainmail_boots: 0.001
+
+  golden_helmet: 0.004  #default speed value for golden armor 0.05
+  golden_chestplate: 0.025
+  golden_leggings: 0.015
+  golden_boots: 0.006
+
+  diamond_helmet: 0.004  #default speed value for diamond armor 0.043
+  diamond_chestplate: 0.03
+  diamond_leggings: 0.012
+  diamond_boots: 0.005
+
+
